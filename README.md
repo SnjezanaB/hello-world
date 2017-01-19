@@ -1,2 +1,2 @@
 # hello-world
-Just another r
+I'm an absolute beginner
