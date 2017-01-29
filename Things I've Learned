@@ -3,7 +3,7 @@
 <head>
 	<title>Things I've Learned</title>
 </head>
-
+<body>
 <h1>Things I've Learned</h1>
 <h2>Internet basics</h2>
 
@@ -33,4 +33,8 @@
 	<li>Paragraph</li>
 	<li><em>em</em></li>
 	<li><strong>strong</strong></li>
+
 </ul>
+</ul>
+</body>
+</html>
